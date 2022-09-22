@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body {  margin: 0;
+    font-family: "Open Sans", sans-serif;
+    background: var(--black);
+    overflow-x: hidden; }
+/* :root{
+    --primary-color:#00ac9d;
+    --secondary-color:#00467f;
+    --alt-color:#f1f1f1;
+
+    --secondary-text-color:#a3a3a3;
+    --secondary-text-light:#e3e3e3;
+    
+    --secondary-color-dark:#081a29;
+
+    --swiper-theme-color:var(--primary-color)
+} */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300&display=swap');
+
+:root{
+  --pink:#EE0548;
+  --black:#130f40;
+}
